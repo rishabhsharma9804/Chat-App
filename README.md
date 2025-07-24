@@ -54,7 +54,6 @@ This project is a real-time **group chat platform** where:
 
 ## 📂 Folder Structure
 
-```bash
 chat-app/
 ├── backend/                    # Spring Boot project
 │   ├── src/main/java/com/...  # Controllers, Services, Configs
