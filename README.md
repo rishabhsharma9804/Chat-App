@@ -54,17 +54,18 @@ This project is a real-time **group chat platform** where:
 
 ## 📂 Folder Structure
 
+```bash
 chat-app/
-├── backend/                    # Spring Boot project
-│   ├── src/main/java/com/...  # Controllers, Services, Configs
-│   ├── WebSocketConfig.java   # WebSocket setup
-│   ├── ChatController.java    # REST & WebSocket endpoints
-│   └── pom.xml                # Maven config
+├── backend/                  # Spring Boot project
+│   ├── src/main/java/com/... # Controllers, Services, Configs
+│   ├── WebSocketConfig.java  # WebSocket setup
+│   ├── ChatController.java   # REST & WebSocket endpoints
+│   └── pom.xml               # Maven config
 │
-├── frontend/                  # React app
+├── frontend/                 # React app
 │   ├── public/
 │   ├── src/
-│   │   ├── components/        # ChatRoom, JoinRoom, etc.
+│   │   ├── components/       # ChatRoom, JoinRoom, etc.
 │   │   ├── App.js
 │   │   └── index.js
 │   └── package.json
@@ -72,26 +73,27 @@ chat-app/
 └── README.md
 
 
+
 ## 🧪 How to Run the Project
 ⚙️ Backend (Spring Boot)
 Navigate to the backend directory:
-
 cd backend
-Build and run the Spring Boot server:
 
+Build and run the Spring Boot server:
 mvn spring-boot:run
+
 Server will run on: http://localhost:8080
 
 💻 Frontend (React.js)
 Navigate to the frontend directory:
-
 cd frontend
+
 Install dependencies:
-
 npm install
-Start the React development server:
 
+Start the React development server:
 npm start
+
 App will open on: http://localhost:3000
 
 ## 💡 Future Enhancements
