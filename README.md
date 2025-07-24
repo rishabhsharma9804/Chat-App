@@ -72,7 +72,7 @@ chat-app/
 │
 └── README.md
 
-
+```
 
 ## 🧪 How to Run the Project
 ⚙️ Backend (Spring Boot)
