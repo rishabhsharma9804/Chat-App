@@ -111,9 +111,10 @@ App will open on: http://localhost:3000
 You can include screenshots of your chat UI, room join screen, and message flow here.
 
 ## 🧑‍💻 Author
-Rishabh Sharma
-📧 rishabhsharma9804@gmail.com
-🌐 GitHub | LinkedIn
+
+**Rishabh Sharma**  
+📧 rishabhsharma9804@gmail.com  
+🌐 [GitHub](https://github.com/rishabhsharma9804) | [LinkedIn](https://www.linkedin.com/in/rishabhsharma9804/)
 
 📄 License
 This project is licensed under the MIT License
